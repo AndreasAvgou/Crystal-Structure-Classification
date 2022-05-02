@@ -1,4 +1,4 @@
-# Crystal-Structure-Classification
+# Crystal Structure Classification
 
 ![image](https://user-images.githubusercontent.com/22665704/166236755-ccf1ed8c-0abb-4fa5-9bbd-b177c6c19e26.png)
 
