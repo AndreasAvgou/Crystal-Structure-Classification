@@ -41,3 +41,6 @@ The data consists of 4,165 ABO3 perovskite-type oxides. Each observation is desc
 
 12) Μ - Octahedral factor
 ```
+## Dataset
+
+You can find the dataset that was used in this [link](https://drive.google.com/drive/folders/1w3hLEJZ1TFPvQ6KDgbR3iDJOt5FWUja2?usp=sharing)
